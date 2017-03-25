@@ -1,0 +1,21 @@
+{
+  "name": "photon-dark-syntax",
+  "description": "Official photon.sh dark syntax theme",
+  "theme": "syntax",
+  "author": "Photon <support@photon.sh> (https://photon.sh)",
+  "version": "0.0.0",
+  "keywords": [
+    "dark",
+    "theme",
+    "photon",
+    "space",
+    "syntax",
+    "colorful",
+    "night"
+  ],
+  "repository": "https://github.com/photonsh/atom-photon-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">= 1.13"
+  }
+}
